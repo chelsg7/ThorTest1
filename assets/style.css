@@ -1,0 +1,52 @@
+* {
+    background-color: lavender;
+    text-align: center;
+    color: turquoise;
+}
+body {
+    line-height: 2em;
+}
+
+h1 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 48px;
+    margin: 10px;
+}
+
+nav ul {
+    margin: auto;
+}
+
+.navlist {
+    display: inline-block;
+    list-style-type: none;
+    font-family: 'Amatic SC', sans-serif;
+    font-size: 30px;
+    margin: 10px;
+}
+
+ #head:visited {
+    color: darkblue;
+ }
+ 
+ #head:hover {
+    color: green;
+    font-size: 50px;
+}
+#head:focus {
+    color: orange;
+    size: 45px;
+}
+
+#bod1 {
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    font-size: 50px;
+    line-height: 1.5em;
+    font-family: 'Indie Flower', sans-serif;
+    text-align: center;
+    margin: 50px;
+}
